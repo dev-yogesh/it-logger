@@ -1,0 +1,61 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed hard drive on workstation 005",
+      "attention": false,
+      "tech": "Mark Andry",
+      "date": "2020-11-27T08:29:04.946Z"
+    },
+    {
+      "id": 3,
+      "message": "Changed hard drive on workstation 007",
+      "attention": true,
+      "tech": "Masy Jan",
+      "date": "2020-11-27T11:23:55.274Z"
+    },
+    {
+      "id": 4,
+      "message": "Changed network card at 033",
+      "attention": false,
+      "tech": "Brad Trasy",
+      "date": "2020-11-27T11:23:33.234Z"
+    },
+    {
+      "id": 5,
+      "message": "Need of harddrive at 0121",
+      "attention": true,
+      "tech": "Mark Andry",
+      "date": "2020-11-27T11:23:27.384Z"
+    },
+    {
+      "id": 6,
+      "message": "check system 101",
+      "attention": false,
+      "tech": "Jan Tak",
+      "date": "2020-11-27T11:23:43.924Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 2,
+      "firstName": "Masy",
+      "lastName": "Jan"
+    },
+    {
+      "id": 3,
+      "firstName": "Mark",
+      "lastName": "Andry"
+    },
+    {
+      "firstName": "Jan",
+      "lastName": "Tak",
+      "id": 4
+    },
+    {
+      "firstName": "Brad",
+      "lastName": "Trasy",
+      "id": 5
+    }
+  ]
+}
